@@ -1,4 +1,4 @@
-FROM daocloud.io/library/nginx:1.7.1
+FROM nginx:1.7.1
 
 MAINTAINER Jesse Hu <hu2014jesse@gmail.com>
 
